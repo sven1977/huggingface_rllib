@@ -9,7 +9,7 @@ pip install huggingface-rllib
 ```
 
 ## Examples
-We wrote a tutorial on how to use 🤗 Hub and RLlib [here](https://github.com/huggingface/huggingface_rllib/blob/main/RLlib_and_Hugging_Face_%F0%9F%A4%97_tutorial.ipynb)
+We wrote a tutorial on how to use 🤗 Hub and RLlib [here](https://github.com/sven1977/huggingface_rllib/blob/main/RLlib_and_Hugging_Face_%F0%9F%A4%97_tutorial.ipynb)
 
 If you use **Colab or a Virtual/Screenless Machine**, you can check Case 3 and Case 4.
 
